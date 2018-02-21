@@ -14,13 +14,13 @@ You'll need to use your MAC OS terminal for this to work. It is really Easy To U
     $ ???????????
     $ ???????????
 
-Please refer to [Portfolio](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
+Please refer to [Portfolio Section On My Website](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
 
 **Please note that I, cannot completely provide support, for issues related to custom platform repositories and packages.**
 
 ## Development.
 
-The following information only applies if you're forking and building this.
+This is a project in progress. I will update this to support future swift language versions. The following information only applies if you're forking and building this.
 
 ### Pull Requests or Issues.
 
