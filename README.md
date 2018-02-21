@@ -14,9 +14,9 @@ You'll need to use your MAC OS terminal for this to work. It is really Easy To U
     $ ???????????
     $ ???????????
 
-Please refer to [Dev Center](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
+Please refer to [Portfolio](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
 
-**Please note that Heroku cannot provide support for issues related to custom platform repositories and packages.**
+**Please note that I cannot provide support for issues related to custom platform repositories and packages.**
 
 ## Development.
 
