@@ -23,13 +23,14 @@ If program is given any "bad" command. It Can Give Educated Feedback.
 
 ## Simplicity Convenience
 ***This Is Going Under Mass Development.***
-Adding Support For HomeBrew.
-You can store data to the program.
-This Also Includes Your Default settings.
-- This can be Domains or IP addresses.
---This can be Username And Password
----Where the Location Of The Key Is.
-----What Port You Want To Use
-The Computer will give feed back based on use to the user.
+
+-Adding Support For HomeBrew.
+-You can store data to the program.
+-This Also Includes Your Default settings.
+-This can be Domains or IP addresses.
+-This can be Username And Password
+-Where the Location Of The Key Is.
+-What Port You Want To Use
+-The Computer will give feed back based on use to the user.
 
 
