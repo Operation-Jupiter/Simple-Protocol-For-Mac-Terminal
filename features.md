@@ -1,6 +1,6 @@
-## Protocols!
+# Protocols!
 
-# SSH
+## SSH
 
 ***This Is In Beta***
 SSH To and Domain and IP address.
@@ -8,20 +8,20 @@ SSH Using A Username and Password.
 SSH Using Any Type Of KEY.
 SSH Using Any Port.
 
-# Telnet
+## Telnet
 
 ***Note: This Has Not Yet Been Started On Development***
 Telnet to Domain Or IP
 Use Base Command With HomeBrew
 
-## Computer AI
+# Computer AI
 
-# User Input
+## User Input
 ***This Is In Beta***
 Has A Help Feature
 If program is given any "bad" command. It Can Give Educated Feedback.
 
-# Simplicity Convenience
+## Simplicity Convenience
 ***This Is Going Under Mass Development.***
 Adding Support For HomeBrew.
 You can store data to the program.
