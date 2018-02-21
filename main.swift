@@ -8,14 +8,42 @@
 
 import Foundation
 
-
 print("Hello, There!")
-
 
 print("This Was Developed By Larson Carter!")
 
+print("What Do You Want To Do.")
 
-print("Where Is Your Target?")
+var command1 = readLine()
+
+if ( String(command1!)! == "ssh" || "SSH" ) {
+    
+    print("Where Is Your Target? Use IP Address or Domain.")
+    
+    var target = readLine()
+    
+    if (target == "") {
+        
+        print("Error: #1")
+        
+    } else {
+        
+        print("OK.")
+        
+    }
+    
+} else {
+    
+    print("Error: #2")
+    
+}
 
 
-var target = readLine()
+
+
+
+
+
+
+
+
