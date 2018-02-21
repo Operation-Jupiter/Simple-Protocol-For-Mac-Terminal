@@ -24,7 +24,7 @@ If program is given any "bad" command. It Can Give Educated Feedback.
 ## Simplicity Convenience
 ***This Is Going Under Mass Development.***
 
-Adding Support For HomeBrew.
+### Adding Support For HomeBrew.
 You can store data to the program.
 This Also Includes Your Default settings.
 This can be Domains or IP addresses.
