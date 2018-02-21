@@ -11,15 +11,15 @@
 ## Telnet
 
 ***Note: This Has Not Yet Been Started On Development***
-Telnet to Domain Or IP
-Use Base Command With HomeBrew
+####  Telnet to Domain Or IP
+####  Use Base Command With HomeBrew
 
 # Computer AI
 
 ## User Input
 ***This Is In Beta***
-Has A Help Feature
-If program is given any "bad" command. It Can Give Educated Feedback.
+####  Has A Help Feature, Simply type "help" 
+####  If program is given any "bad" command. It Can Give Educated Feedback.
 
 ## Simplicity Convenience
 ***This Is Going Under Mass Development.***
