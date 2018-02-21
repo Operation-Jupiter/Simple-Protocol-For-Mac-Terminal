@@ -1,8 +1,7 @@
 # Simple-SSH-For-Mac
 Simple SSH For Mac. This Will Let You Choose Where To Ssh Too. Just with a couple of Questions.
 
-# Heroku buildpack: PHP 
-[![Build Status](https://travis-ci.org/heroku/heroku-buildpack-php.svg?branch=master)](https://travis-ci.org/heroku/heroku-buildpack-php)
+# Simple SSH:
 [![Xcode 9](https://img.shields.io/badge/Xcode-9-blue.svg)](https://developer.apple.com/xcode/)
 [![Swift 4](https://img.shields.io/badge/Swift-4-blue.svg)](https://swift.org/)
 [![Platform](https://img.shields.io/badge/platforms-macOS-blue.svg)](https://developer.apple.com/platforms/)
