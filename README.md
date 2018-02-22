@@ -10,7 +10,9 @@ Simple SSH For Mac. This Will Let You Choose Where To Ssh Too. Just with a coupl
 
 You'll need to use your MAC OS terminal for this to work. It is really Easy To Use.
 
-    $ ???????????
+Open Terminal!
+
+    $ swift "Location To The File. You Can Just Drag It Into Terminal"
     $ ???????????
     $ ???????????
 
