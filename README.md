@@ -18,6 +18,10 @@ You'll need to use your MAC OS terminal for this to work. It is really Easy To U
 
 3.) Drag And Drop The Swift Icon Into Terminal Area.
 
+4.) Press Enter And The Program Will Start.
+
+### More Steps Coming In The Future.
+
 Please refer to [Portfolio Section On My Website](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
 
 **Please note that I, cannot completely provide support, for issues related to custom platform repositories and packages.**
