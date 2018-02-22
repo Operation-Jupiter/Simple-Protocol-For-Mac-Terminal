@@ -5,8 +5,8 @@
 ***This Is In Beta***
 ####  SSH To and Domain and IP address.
 ####  SSH Using A Username and Password.
-####  SSH Using Any Type Of KEY.
-####  SSH Using Any Port.
+####  SSH Using Any Type Of KEY. This Just Locates The Key On The Mac.
+####  SSH Using Any Port. This Is Any Port Other Than 22 which is default.
 
 ## Telnet
 
@@ -18,9 +18,9 @@
 
 ## User Input
 ***This Is In Beta***
-####  Has A Help Feature, Simply type "help" 
+####  Has A Help Feature, Simply type "help" and it will respond properly.
 ####  If program is given any "bad" command. It Can Give Educated Feedback.
-####  More User Input Help Coming Later
+####  More User Input Help Coming Later. Email me to help with this!
 
 ## Simplicity / Convenience
 ***This Is Going Under Mass Development.***
