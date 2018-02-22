@@ -16,9 +16,11 @@ You'll need to use your MAC OS terminal for this to work. It is really Easy To U
 
 2.) Type "swift" without quotation marks.
 
-3.) Drag And Drop The Swift Icon Into Terminal Area.
+3.) Press SpaceBar
 
-4.) Press Enter And The Program Will Start.
+4.) Drag And Drop The Swift Icon Into Terminal Area.
+
+5.) Press Enter And The Program Will Start.
 
 ### More Steps Coming In The Future.
 
