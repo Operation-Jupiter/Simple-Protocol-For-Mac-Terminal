@@ -13,41 +13,31 @@ var command = readLine()
 //  This Is Start Of SSH Code.
 if (command == "ssh") {
     print("Where Is Your Target? Use IP Address or Domain.")
-    var target = readLine()
+    let target = readLine()
     if (target == "") {
         print("Error: #1")
     } else {
         print("OK.")
     }
     print("What Is Your Username For Target?")
-    var username = readLine()
+    let username = readLine()
     print("What Is The Desired Port? Note: Default Is 22! Some Servers Do Not Want A Port!")
-    var port = readLine()
+    let port = readLine()
     print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))" )
 } else if (command == "SSH") {
     print("Where Is Your Target? Use IP Address or Domain.")
-    var target = readLine()
+    let target = readLine()
     if (target == "") {
         print("Error: #1")
     } else {
         print("OK.")
     }
     print("What Is Your Username For Target?")
-    var username = readLine()
+    let username = readLine()
     print("What Is The Desired Port? Note: Default Is 22! Some Servers Do Not Want A Port!")
-    var port = readLine()
+    let port = readLine()
     print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))" )
 } else {
     print("Error: #2")
 }
 //  This Is End Of SSH Code.
-
-
-
-
-
-
-
-
-
-
