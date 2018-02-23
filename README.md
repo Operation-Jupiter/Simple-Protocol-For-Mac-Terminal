@@ -1,5 +1,5 @@
-# Simple-SSH-For-Mac.
-Simple SSH For Mac. This Will Let You Choose Where To Ssh Too. Just with a couple of Questions.
+# Simple-Protocol-For-Mac.
+Simple Protocol For Mac. This Will Let You Choose What Protocol To Use. Just with a couple of Questions Your Command Will Be Executed.
 
 [![Xcode 9.2](https://img.shields.io/badge/Xcode-9-blue.svg)](https://developer.apple.com/xcode/)
 [![Swift 4.1](https://img.shields.io/badge/Swift-4-blue.svg)](https://swift.org/)
@@ -18,7 +18,7 @@ You'll need to use your MAC OS terminal for this to work. It is really Easy To U
 
 3.) Press SpaceBar
 
-4.) Drag And Drop The Swift Icon Into Terminal Area.
+4.) Drag And Drop The Swift Icon "of your program of choice" Into Terminal Area.
 
 5.) Press Enter And The Program Will Start.
 
