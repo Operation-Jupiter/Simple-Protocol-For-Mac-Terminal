@@ -41,7 +41,15 @@ if (command == "ssh") {
     
     let port = readLine()
     
-    print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))" )
+    if (port == "") {
+        
+        print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + "\(String(port!))")
+        
+    } else {
+        
+        print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))")
+        
+    }
     
 } else if (command == "SSH") {
     
@@ -66,7 +74,17 @@ if (command == "ssh") {
     
     let port = readLine()
     
-    print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))" )
+    if (port == "") {
+        
+        print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + "\(String(port!))")
+        
+    } else {
+        
+        print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))")
+    
+    }
+    
+    
     
 } else {
     
