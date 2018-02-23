@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  ssh.swift
 //  SIMPLESSH
 //
 //  Created by Larson Carter on 2/20/18.
