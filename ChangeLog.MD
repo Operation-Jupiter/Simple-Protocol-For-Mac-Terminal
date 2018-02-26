@@ -1,13 +1,18 @@
 # Changelog
 All changes to this project will be documented in this file.
 
-## Feb 22, 2018
-Added SSH it is almost complete. Going to move ssh to a new file. 
-All main.swift will do is register some of the commands.
-Each protocol will have its own swift file.
-Main.swift will link that file to it so if user types ssh it will open file "ssh.swift"
+## Feb 26, 2018
+Now Advancing SSH
+Creating Mutiple .SWIFT Files
+Working on ERROR CODES
 
 ## Feb 23, 2018
 Chaged Project Name To Simple Protocol For Mac
 This Will Soon Support More Protocols In The Future.
 I Will Master SSH First.
+
+## Feb 22, 2018
+Added SSH it is almost complete. Going to move ssh to a new file. 
+All main.swift will do is register some of the commands.
+Each protocol will have its own swift file.
+Main.swift will link that file to it so if user types ssh it will open file "ssh.swift"
