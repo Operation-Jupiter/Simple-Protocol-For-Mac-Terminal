@@ -2,12 +2,14 @@
 All changes to this project will be documented in this file.
 
 ## Feb 26, 2018
-Now Advancing SSH
-Creating Mutiple .SWIFT Files
-Working on ERROR CODES
+Now Advancing SSH.
+Creating Mutiple .SWIFT Files.
+Working on ERROR CODES.
+Added Help Feature To The Program.
+About To Work On TELNET In Future Days.
 
 ## Feb 23, 2018
-Chaged Project Name To Simple Protocol For Mac
+Chaged Project Name To Simple Protocol For Mac.
 This Will Soon Support More Protocols In The Future.
 I Will Master SSH First.
 
