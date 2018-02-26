@@ -6,11 +6,12 @@ import Foundation
 print("Hello, There!")
 print("This Was Developed By Larson Carter AKA larsonthekidrs!")
 print("What Do You Want To Do?")
-var command = readLine()
+let command = readLine()
 //  This Is Begining Of Help Section
 if (command == "help") {
     print("Welcome To SSH HELP.")
-    print("Type ssh or SSH to begin.")
+    print("Please Refer To GIHUB.")
+    print("OR ssh or SSH to begin.")
     print("The Command Will Guide You On How To Use It.")
     print("DONE???")
     let done = readLine()
@@ -28,7 +29,8 @@ if (command == "help") {
 }
 if (command == "HELP") {
     print("Welcome To SSH HELP.")
-    print("Type ssh or SSH to begin.")
+    print("Please Refer To GITHUB.")
+    print("OR ssh or SSH to begin.")
     print("The Command Will Guide You On How To Use It.")
     print("DONE???")
     let done = readLine()
@@ -73,11 +75,18 @@ if (command == "ssh") {
     }
     print("What Is Your Username For Target?")
     let username = readLine()
+    if (username == "") {
+        print("Error: #1")
+    } else {
+        print("OK.")
+    }
     print("What Is The Desired Port? Note: Default Is 22! Some Servers Do Not Want A Port!")
     let port = readLine()
     if (port == "") {
+        print("OK.")
         print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + "\(String(port!))")
     } else {
+        print("OK.")
         print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + ":" + "\(String(port!))")
     }
 } else {
