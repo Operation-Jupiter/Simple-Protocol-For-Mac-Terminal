@@ -1,29 +1,35 @@
 //  ssh.swift
-//  SIMPLESSH
+//  SSH
 //  Created by Larson Carter on 2/20/18.
 //  Copyright © 2018 Larson Carter. All rights reserved.
 import Foundation
 print("Hello, There!")
 print("This Was Developed By Larson Carter AKA larsonthekidrs!")
-print("What Do You Want To Do?")
+print("What Do You Want To Do? Options help or ssh")
 let command = readLine()
+print("OK.")
 //  This Is Begining Of Help Section
 if (command == "help" || command == "HELP") {
     print("Welcome To SSH HELP.")
     print("Please Refer To GIHUB.")
-    print("OR ssh or SSH to begin.")
+    print("OR type ssh or SSH to begin.")
     print("The Command Will Guide You On How To Use It.")
     print("DONE???")
     let done = readLine()
     if (done == "yes") {
+        print("OK.")
         print("Close This Terminal And Re Run This Program.")
     } else if (done == "YES") {
+        print("OK.")
         print("Close This Terminal And Re Run This Program.")
     } else if (done == "NO") {
+        print("OK.")
         print("Error #3: Go To GitHub And User Guide")
     } else if (done == "no") {
+        print("OK.")
         print("Error #3: Go To GitHub And User Guide")
     } else {
+        print("OK.")
         print("Error #4: Go To GitHub And User Guide")
     }
 }
@@ -39,8 +45,10 @@ if (command == "ssh" || command == "SSH") {
     }
     print("What Is Your Username For Target?")
     let username = readLine()
+    print("OK.")
     print("What Is The Desired Port? Note: Default Is 22! Some Servers Do Not Want A Port!")
     let port = readLine()
+    print("OK.")
     if (port == "") {
         print("ssh " + "\(String(username!))" + "@" + "\(String(target!))" + "\(String(port!))")
     } else {
