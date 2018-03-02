@@ -16,16 +16,10 @@ if (command == "help" || command == "HELP") {
     print("The Command Will Guide You On How To Use It.")
     print("DONE???")
     let done = readLine()
-    if (done == "yes") {
+    if (done == "yes" || done == "YES") {
         print("OK.")
         print("Close This Terminal And Re Run This Program.")
-    } else if (done == "YES") {
-        print("OK.")
-        print("Close This Terminal And Re Run This Program.")
-    } else if (done == "NO") {
-        print("OK.")
-        print("Error #3: Go To GitHub And User Guide")
-    } else if (done == "no") {
+    } else if (done == "NO" || done == "no") {
         print("OK.")
         print("Error #3: Go To GitHub And User Guide")
     } else {
@@ -58,3 +52,4 @@ if (command == "ssh" || command == "SSH") {
     print("Error: #2")
 }
 //  This Is End Of SSH
+
