@@ -5,7 +5,5 @@ branches: master
 skip_cleanup: true
 repo: larsonthekidrs/Simple-Protocol-For-Mac
 tags: true
-script:
-  - xcodebuild -scheme SwiftExample -workspace SwiftExample.xcworkspace -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6S,OS=9.1' build test
 after_success:
   - bash <(curl -s https://codecov.io/bash)
