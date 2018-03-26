@@ -1,45 +1,57 @@
 # Simple-Protocol-For-Mac.
-Simple Protocol For Mac. This Will Let You Choose What Protocol To Use. Just with a couple of Questions Your Command Will Be Executed.
+I Wrode This Program As A Personal Need Project, It is now beign used by mutiple people that I have told it to. I am now finally making this project fully open source.
+What is it. Simple Protocol For Mac. This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
+NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
+NOTE: SPEED IS GOING TO BECOME OUR KEY!
+NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
+NOTE: I DO NOT RECCOMEND USING IF YOU DO NOT KNOW WHAT YOU ARE DOING! 
+NOTE: I DO NOT PROVIDE SUDO SUPPORT OR ROOT SUPPORT!
 
+## Usage NOTES.
 
+You'll need to use your MAC OS terminal for this to work. It is really Easy And Simple To Use. Look At The Next Section Titled "Steps On How To Use" Email Me @ larsoncarter@blazermail.net For Simple Support, I Will Not Help Support Custom Or Edited Versions.
 
+##  Example Email And Usage
 
+MORE TO COME FOR THIS LATER ON!
 
-[![Travis](https://img.shields.io/travis/USER/REPO.svg)](larsonthekidrs/Simple-Protocol-For-Mac:)
+##  Steps On How To Use
 
+NOTE: YOU MUST HAVE XCODE INSTALLED AND IT MUST HAVE ITS LATEST UPDATE!
 
+NOTE: YOU ALSO MUST HAVE MAC OS 10.12 OR LATER.
 
-
-
-## Usage.
-
-You'll need to use your MAC OS terminal for this to work. It is really Easy To Use.
-
-##  Steps
+### HOW TO GET TO TERMINAL
+### 1. Click the Finder icon in your dock.
+### 2. Click Go.
+### 3. Click Utilities.
+### 4. Double-click Terminal.
 
 1.) Open Terminal.
 
 2.) Type "swift" without quotation marks.
 
-3.) Press SpaceBar
+3.) Press SpaceBar On Your Keyboard
 
 4.) Drag And Drop The Swift Icon "of your program of choice" Into Terminal Area.
 
-5.) Press Enter And The Program Will Start.
+5.) Press Enter And The Program Will Execute Itself.
 
-### More Steps Coming In The Future.
+### More Steps Will Coming In The Future.
 
-Please refer to [Portfolio Section On My Website](https://larsoncarter.website) for further usage instructions.(These are not ready yet)
+Please refer to [Portfolio Section On My Website](https://larsoncarter.website) for further usage instructions.(These Are Not Ready Yet!)
 
 **Please note that I, cannot completely provide support, for issues related to custom platform repositories and packages.**
 
 ## Development.
 
-This is a project in progress. I will update this to support future swift language versions. The following information only applies if you're forking and building this.
+This is a project in progress. I will update this to support future swift language versions. The following information only applies if you're forking and building this. If you contribute to this create a pull request and a issue, then proceed to email me then I will look through the code then I will commit it on GitHub.
+
+NOTE: THIS COULD TAKE A COUPLE OF WEEKS IT DEPENDS ON MY SCHEDULE, IF I DO NOT RESPOND EMAIL ME 2 WEEKS LATER!
 
 ### Pull Requests or Issues.
 
-Please submit all pull requests against master as the base branch.
+Please submit all pull requests and issues against master as the base branch.
 
 ### Customize and Other Request.
 
