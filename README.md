@@ -6,9 +6,9 @@ This Will Let You Choose Supported Protocols To Use. Just with a couple of Quest
 
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 
-[![Coverage Status](https://coveralls.io/repos/github/larsonthekidrs/Simple-Protocol-For-Mac/badge.svg?branch=master)](https://coveralls.io/github/larsonthekidrs/Simple-Protocol-For-Mac?branch=master)
 
-[![codecov](https://codecov.io/gh/larsonthekidrs/Simple-Protocol-For-Mac/branch/master/graph/badge.svg)](https://codecov.io/gh/larsonthekidrs/Simple-Protocol-For-Mac)
+[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg)](https://codecov.io/gh/larsonthekidrs/Simple-Protocol-For-Mac)
+
 
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
