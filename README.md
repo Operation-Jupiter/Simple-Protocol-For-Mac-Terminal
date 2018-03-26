@@ -14,6 +14,10 @@ Simple Protocol For Mac. This Will Let You Choose What Protocol To Use. Just wit
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
 
 
+[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)](https://swift.org/)
+
+
+
 
 
 ## Usage.
