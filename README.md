@@ -4,14 +4,7 @@ I am now finally making this project fully open source.
 What is it. Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
 
-
-
-![BUILD](https://img.shields.io/travis/USER/REPO.svg)
-
-
-
-
-
+[![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
