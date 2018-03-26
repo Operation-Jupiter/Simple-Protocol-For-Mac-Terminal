@@ -1,0 +1,20 @@
+language: swift
+xcode_project: ssh.swift
+xcode_scheme: SIMPLE PROTOCOL FOR MAC
+xcode_sdk: macosx10.12
+osx_image: xcode9.2
+after_success: bash swift ssh.swift
+branches: master
+before_install:
+- brew update
+- brew outdated carthage || brew upgrade carthage
+before_script:
+- carthage bootstrap
+before_deploy:
+- carthage build --no-skip-current
+- carthage archive $FRAMEWORK_NAME
+deploy:
+provider: releases
+skip_cleanup: true
+repo: chenyunguiMilook/SwiftyXML
+tags: true
