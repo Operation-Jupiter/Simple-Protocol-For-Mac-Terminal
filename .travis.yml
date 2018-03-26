@@ -13,3 +13,6 @@ provider: releases
 skip_cleanup: true
 repo: chenyunguiMilook/SwiftyXML
 tags: true
+
+service_name: travis-pro
+repo_token: KeMxV5uZqIMx5xEMHlpH1hzzNDXEMFfrc
