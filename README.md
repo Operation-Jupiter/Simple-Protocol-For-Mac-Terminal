@@ -1,6 +1,9 @@
 # Simple-Protocol-For-Mac.
-I Wrode This Program As A Personal Need Project, It is now beign used by mutiple people that I have told it to. I am now finally making this project fully open source.
-What is it. Simple Protocol For Mac. This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
+I Wrode This Program As A Personal Need Project, It is now beign used by mutiple people that I have told it to. 
+I am now finally making this project fully open source.
+What is it. Simple Protocol For Mac. 
+This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
+
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
@@ -9,7 +12,10 @@ NOTE: I DO NOT PROVIDE SUDO SUPPORT OR ROOT SUPPORT!
 
 ## Usage NOTES.
 
-You'll need to use your MAC OS terminal for this to work. It is really Easy And Simple To Use. Look At The Next Section Titled "Steps On How To Use" Email Me @ larsoncarter@blazermail.net For Simple Support, I Will Not Help Support Custom Or Edited Versions.
+You'll need to use your MAC OS terminal for this to work. 
+It is really Easy And Simple To Use. 
+Look At The Next Section Titled "Steps On How To Use" Email Me @ larsoncarter@blazermail.net 
+NOTE: For Simple Support, I Will Not Help Support Custom Or Edited Versions.
 
 ##  Example Email And Usage
 
@@ -45,7 +51,10 @@ Please refer to [Portfolio Section On My Website](https://larsoncarter.website) 
 
 ## Development.
 
-This is a project in progress. I will update this to support future swift language versions. The following information only applies if you're forking and building this. If you contribute to this create a pull request and a issue, then proceed to email me then I will look through the code then I will commit it on GitHub.
+This is a project in progress. 
+I will update this to support future swift language versions. 
+The following information only applies if you're forking and building this. 
+If you contribute to this create a pull request and a issue, then proceed to email me then I will look through the code then I will commit it on GitHub.
 
 NOTE: THIS COULD TAKE A COUPLE OF WEEKS IT DEPENDS ON MY SCHEDULE, IF I DO NOT RESPOND EMAIL ME 2 WEEKS LATER!
 
