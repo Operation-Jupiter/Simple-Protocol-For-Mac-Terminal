@@ -6,10 +6,6 @@ This Will Let You Choose Supported Protocols To Use. Just with a couple of Quest
 
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 
-
-[![Codecov](https://codecov.io/gh/larsonthekidrs/Simple-Protocol-For-Mac)]
-
-
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
