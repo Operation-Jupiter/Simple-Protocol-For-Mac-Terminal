@@ -13,6 +13,10 @@ APP VEYOR:
 Github:
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
 
+
+[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
+
+
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
