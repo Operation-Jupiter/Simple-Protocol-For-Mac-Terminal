@@ -13,12 +13,11 @@ TRAVIS:
 APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
 
-Code Climate: [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
+Code Climate: 
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
 
-|Maintenance yes|
-
-.. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
-   :target: https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity
+Maintenance yes:
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
