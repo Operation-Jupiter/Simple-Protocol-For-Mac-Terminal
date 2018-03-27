@@ -19,7 +19,7 @@ Made With:
 License:
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/blob/master/LICENSE)
 Uses GIT:
-[![USES GIT](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![USES GIT](https://img.shields.io/badge/USES-GIT-RED.svg)](https://shields.io/)
 
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
