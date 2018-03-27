@@ -28,6 +28,9 @@ Made With:
 License:
 [![GitHub License](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/blob/master/LICENSE)
 
+Release:
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/larsonthekidrs/Simple-Protocol-For-Mac/releases/)
+
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
