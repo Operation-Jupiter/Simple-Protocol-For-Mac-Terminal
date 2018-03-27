@@ -11,8 +11,7 @@ APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
 
 
-
-[![AppVeyor tests](https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
 
 
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
