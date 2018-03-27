@@ -6,7 +6,6 @@ This Will Let You Choose Supported Protocols To Use. Just with a couple of Quest
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 [![Build status](https://img.shields.io/badge/Build-Failing-red.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
 [![Maintenance](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
 [![My Website](https://img.shields.io/badge/Website%20Up-Yes-ff69b4.svg)](https://larsoncarter.website)
 [![Made-With-Bash](https://img.shields.io/badge/Made%20With-Bash-lightgray.svg)](https://www.gnu.org/software/bash/)
