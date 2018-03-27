@@ -1,29 +1,29 @@
-# SIMPLE PROTOCOL FOR MAC Code of Conduct
+# SIMPLE PROTOCOL FOR MAC - Code of Conduct
 
 ## 1. Our Purpose
 
-A primary goal of Simple Protocol For Mac is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of ,Simple Protocol For Mac, is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community (including slack), as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Simple Protocol For Mac to help us create safe and positive experiences for everyone.
+We invite all those who participate in Simple Protocol For Mac to help us create safe and positive experiences for everyone, and for those that we have not yet reached.
 
 ## 2. Open Source Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to greatly increase open source citizenship by encouraging participants (and even some non participants) to recognize and strengthen the relationships between our actions and their effects on our community (including slack).
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants (even some non participants) to contribute to the fullest extent, we want to know. (This Can Be Done Via Slack Private Message, And Email!)
 
 ## 3. Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
-*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*   Exercise consideration and respect in your speech and actions.
-*   Attempt collaboration before conflict.
-*   Refrain from demeaning, discriminatory, or harassing behavior and speech.
+*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. (Even If You Do Not Realize It At The Moment)
+*   Exercise consideration and respect in your speech and actions. (Basically Treat Others The Way That You Would Want To Be Treated!)
+*   Attempt collaboration before conflict. (This Is Very Important)
+*   Refrain from demeaning, discriminatory, or harassing behavior and speech. (Also Very Important)
 *   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 *   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
@@ -61,7 +61,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify LARSONTHEKIDRS with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify LARSONTHEKIDRS (LARSON CARTER) with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 Link to policy: THIS WILL BE IN THE REPO VERY SOON
 
@@ -73,7 +73,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-Feel Free TO Contact Me VIA Email, And On Slack!
+Feel Free TO Contact Me VIA Email, And On Slack! (NOTE: SLACK IS NOT YET CREATED!)
 
 larsoncarter@blazermail.net
 
@@ -83,4 +83,4 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
+Retrieved on MARCH 25, 2018 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
