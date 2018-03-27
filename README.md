@@ -28,6 +28,10 @@ License:
 Uses GIT:
 [![USES GIT](https://img.shields.io/badge/USES-GIT-RED.svg)](https://github.com/)
 
+Language:
+[![Swfit](https://img.shields.io/badge/Language-Swift-FF8C00.svg)](https://swift.org)
+
+
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
