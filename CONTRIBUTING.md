@@ -1,9 +1,11 @@
 # Contributing
 
+NOTE: ALL OF THESE RULES ARE SUBJECT TO CHANGE!
+
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a strict Code Of Conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
 
