@@ -4,11 +4,16 @@ I am now finally making this project fully open source.
 What is it. Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
 
-TRAVIS!
+TRAVIS:
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 
-APP VEYOR!
+APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+
+
+
+[![AppVeyor tests](https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+
 
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
