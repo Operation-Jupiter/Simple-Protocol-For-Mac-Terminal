@@ -10,17 +10,6 @@ TRAVIS:
 APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
 
-Github:
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
-
-
-[![GitHub Release Date](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/releases/tag/1.0)
-
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
-
-
-
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
