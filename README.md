@@ -17,7 +17,7 @@ Code Climate:
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
 
 Maintenance yes:
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
 
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
