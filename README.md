@@ -6,20 +6,27 @@ This Will Let You Choose Supported Protocols To Use. Just with a couple of Quest
 
 TRAVIS:
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
+
 APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+
 Code Climate: 
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
+
 Maintenance Yes:
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
+
 Website:
-[![My Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://larsoncarter.website)
+[![My Website](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://larsoncarter.website)
+
 Made With:
 [![Made-With-Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+
 License:
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/blob/master/LICENSE)
+
 Uses GIT:
-[![USES GIT](https://img.shields.io/badge/USES-GIT-RED.svg)](https://shields.io/)
+[![USES GIT](https://img.shields.io/badge/USES-GIT-RED.svg)](https://github.com/)
 
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
