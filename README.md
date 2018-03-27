@@ -15,7 +15,10 @@ APP VEYOR:
 
 Code Climate: [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
 
-Github Version: [![GitHub version](https://badge.fury.io/gh/larsonthekidrs%2FSimple-Protocol-For-Mac.svg)](https://badge.fury.io/gh/larsonthekidrs%2FSimple-Protocol-For-Mac)
+|Maintenance yes|
+
+.. |Maintenance yes| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
+   :target: https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity
 
 ## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
