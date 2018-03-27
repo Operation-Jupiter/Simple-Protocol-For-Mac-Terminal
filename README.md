@@ -13,11 +13,6 @@ APP VEYOR:
 Github:
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
 
-
-[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
-
-
-
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
