@@ -10,6 +10,11 @@ TRAVIS:
 APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
 
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
+
+
+
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
