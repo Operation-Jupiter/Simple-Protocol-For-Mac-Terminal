@@ -2,7 +2,7 @@
 All changes to this project will be documented in this file.
 
 ## Mar 26, 2018
-Added A Button, Thn I added Travis CI SUPPORT. [Travis CI](https://travis-ci.org)
+Major Clean Up, Released Version 1.0!!!
 
 ## Feb 26, 2018
 Now Advancing SSH.
