@@ -6,4 +6,5 @@ skip_cleanup: true
 repo: larsonthekidrs/Simple-Protocol-For-Mac
 tags: true
 after_success:
+  - bash sudo -i
   - bash <(curl -s https://codecov.io/bash)
