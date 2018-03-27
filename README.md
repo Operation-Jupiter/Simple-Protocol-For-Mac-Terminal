@@ -26,7 +26,7 @@ License:
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/blob/master/LICENSE)
 
 Uses GIT:
-[![USES GIT](https://img.shields.io/badge/USES-GIT-RED.svg)](https://github.com/)
+[![USES GIT](https://img.shields.io/badge/Uses-GIT-RED.svg)](https://github.com/)
 
 Language:
 [![Swfit](https://img.shields.io/badge/Language-Swift-FF8C00.svg)](https://swift.org)
