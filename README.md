@@ -14,7 +14,11 @@ Github:
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
 
 
-[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
+[![GitHub Release Date](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
+
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac)
+
 
 
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
