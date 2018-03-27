@@ -3,14 +3,18 @@ I Wrode This Program As A Personal Need Project, It is now beign used by mutiple
 I am now finally making this project fully open source.
 What is it. Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
+
 TRAVIS:
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
+
 APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+
 Code Climate: [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
+
 Github Version: [![GitHub version](https://badge.fury.io/gh/larsonthekidrs%2FSimple-Protocol-For-Mac.svg)](https://badge.fury.io/gh/larsonthekidrs%2FSimple-Protocol-For-Mac)
 
-# IMPORTANT NOTES
+## IMPORTANT NOTES
 NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
