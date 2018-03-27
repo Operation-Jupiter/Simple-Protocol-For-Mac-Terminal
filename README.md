@@ -4,31 +4,14 @@ I am now finally making this project fully open source.
 What is it. Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
 
-TRAVIS:
 [![Build Status](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac.svg?branch=master)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
-
-APP VEYOR:
 [![Build status](https://ci.appveyor.com/api/projects/status/xh72755eux3k6sr0?svg=true)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
-
-Code Climate: 
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/larsonthekidrs/Simple-Protocol-For-Mac)
-
-Maintenance Yes:
 [![Maintenance](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
-
-Website:
 [![My Website](https://img.shields.io/badge/Up-Yes-ff69b4.svg)](https://larsoncarter.website)
-
-Made With:
 [![Made-With-Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-
-License:
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/blob/master/LICENSE)
-
-Uses GIT:
 [![USES GIT](https://img.shields.io/badge/Uses-GIT-RED.svg)](https://github.com/)
-
-Language:
 [![Swfit](https://img.shields.io/badge/Language-Swift-FF8C00.svg)](https://swift.org)
 
 
