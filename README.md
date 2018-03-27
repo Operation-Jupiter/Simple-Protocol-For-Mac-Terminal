@@ -17,7 +17,7 @@ Maintenance Yes:
 [![Maintenance](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
 
 Website:
-[![My Website](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://larsoncarter.website)
+[![My Website](https://img.shields.io/badge/Up-Yes-grey.svg)](https://larsoncarter.website)
 
 Made With:
 [![Made-With-Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
