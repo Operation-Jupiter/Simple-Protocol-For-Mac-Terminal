@@ -1,34 +1,33 @@
 # Contributing
 
-NOTE: ALL OF THESE RULES ARE SUBJECT TO CHANGE!
+NOTE: ALL OF THESE RULES AND CONDITIONS ARE SUBJECT TO CHANGE!
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+When attempting to contribute to this repository, please first discuss the change or changes that you wish to make via issue, email, slack, or any other method with the owners of this repository before making a change. 
 
-Please note we have a strict Code Of Conduct, please follow it in all your interactions with the project.
+NOTE: We have a strict Code Of Conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
+   build. (This Is Very Important!)
+   
 2. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations, container parameters, and bugfixes.
+   
 3. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. Update The Change Log With A Breif Description Of What Has Been Changed In This Version.   
-5. You may merge the Pull Request in once you have the sign-off by me (Larson Carter), or if you 
-   do not have permission to do that, you may request for me to do it for you.
+   
+4. Update The Change Log With A Breif Description Of What Has Been Changed In This Version. NOTE: THE CHANGELOG IS ALREADY IN THE REPO, FOLLOW THE PATTERN THAT WE HAVE GOING!
+
+5. You may merge the Pull Request, or in certain cases mutiple Pull Request, once you have the sign-off by me (Larson Carter), or if you do not have a way to do so, create an single issue and I will be notified.
 
 ## Code of Conduct
 
 ### Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+In the interest of fostering an very well open and welcoming environment, we as
+contributors, maintainersm and users, pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of any conditon.
 
 ### Our Standards
 
@@ -40,6 +39,7 @@ include:
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
+* Attempt new ways that have not been tried yet.
 
 Examples of unacceptable behavior by participants include:
 
@@ -51,6 +51,7 @@ advances
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* ANY ATTACKING OF OTHER PEOPLE, VIA COMPUTER HARM, WILL NOT BE ALLOWED!
 
 ### Our Responsibilities
 
@@ -76,7 +77,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
+reported by contacting the project team at [larsoncarter@blazermail.net]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
