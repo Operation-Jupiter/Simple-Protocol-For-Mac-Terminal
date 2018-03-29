@@ -1,6 +1,9 @@
 # Changelog
 All changes to this project will be documented in this file.
 
+## Mar 29, 2018
+Major Clean Up In Read.MD, CODE OF CONDUCT, and CONTRIBUTING!
+
 ## Mar 26, 2018
 Major Clean Up, Released Version 1.0!!!
 
