@@ -15,7 +15,7 @@ NOTE: We have a strict Code Of Conduct, please follow it in all your interaction
    variables, exposed ports, useful file locations, container parameters, and bugfixes.
    
 3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+   Pull Request would represent. The version scheme we use is [SemVer](http://semver.org/).
    
 4. Update The Change Log With A Breif Description Of What Has Been Changed In This Version. NOTE: THE CHANGELOG IS ALREADY IN THE REPO, FOLLOW THE PATTERN THAT WE HAVE GOING!
 
