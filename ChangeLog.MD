@@ -2,9 +2,12 @@
 All changes to this project will be documented in this file.
 
 ## Apr 6, 2018
-Clean Up
-Telnet Is Now In Beta
-RELEASE 1.2 IS GOING TO COME OUT TODAY!
+Clean Up.
+Telnet Is Now In Beta.
+RELEASE 1.2 CAME OUT TODAY!
+IT IS OFFICIALLY STABLE!
+Going To Attempt to turn MAC OR PC into Telnet Server!
+Just Upgraded Dependencies TO MAC OS 10.13 and Xcode 9.3!
 
 ## Mar 29, 2018
 Major Clean Up In Read.MD, CODE OF CONDUCT, and CONTRIBUTING!
