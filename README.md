@@ -1,7 +1,7 @@
 # Simple-Protocol-For-Mac.
-I Wrode This Program As A Personal Need Project, It is now beign used by mutiple people that I have told it to. 
+I Wrode This Program As A Personal Need Project, It is now being used by a lot of friends. 
 I am now finally making this project fully open source.
-What is it. Simple Protocol For Mac. 
+What is it? - Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
 
 [![Build Status](https://img.shields.io/badge/TravisCI%20Build-Passing-brightgreen.svg)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
@@ -13,13 +13,12 @@ This Will Let You Choose Supported Protocols To Use. Just with a couple of Quest
 [![USES GIT](https://img.shields.io/badge/Uses-GIT-RED.svg)](https://github.com/)
 [![Swfit](https://img.shields.io/badge/Language-Swift-FF8C00.svg)](https://swift.org)
 
-
 ## IMPORTANT NOTES
-NOTE: IF YOU WANT TO HELP CONTACT ME @ larsoncarter@blazermail.net
+NOTE: IF YOU WANT TO HELP OR NEED HELP? CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
-NOTE: YOU WILL HAVE TO EXECUTE THEM YOURSELF! 
-NOTE: I DO NOT RECCOMEND USING IF YOU DO NOT KNOW WHAT YOU ARE DOING! 
-NOTE: I DO NOT PROVIDE SUDO SUPPORT OR ROOT SUPPORT!
+NOTE: YOU WILL HAVE TO EXECUTE THE PROGRAM YOURSELF! 
+NOTE: I DO-NOT RECCOMEND USING, IF YOU DO NOT KNOW WHAT YOU ARE DOING! 
+NOTE: I DO-NOT PROVIDE SUDO SUPPORT OR ROOT SUPPORT!
 
 ## Usage NOTES.
 
