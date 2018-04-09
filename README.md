@@ -3,6 +3,7 @@ I Wrode This Program As A Personal Need Project, It is now being used by a lot o
 I am now finally making this project fully open source.
 What is it? - Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
+I am now making this into an MacOS app. It will have a GUI NOW.
 
 [![Build Status](https://img.shields.io/badge/TravisCI%20Build-Passing-brightgreen.svg)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 [![Build status](https://img.shields.io/badge/App%20Veyor%20Build-Failing-red.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
