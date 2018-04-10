@@ -1,4 +1,4 @@
-# Simple-Protocol-For-Mac.
+# Simple-Protocol-For-Mac-Terminal.
 I Wrode This Program As A Personal Need Project, It is now being used by a lot of friends. 
 I am now finally making this project fully open source.
 What is it? - Simple Protocol For Mac. 
