@@ -1,9 +1,10 @@
 # Simple-Protocol-For-Mac-Terminal.
-I Wrode This Program As A Personal Need Project, It is now being used by a lot of friends. 
+I Wrote This Program As A Personal Need Project, It is now being used by a lot of friends. 
 I am now finally making this project fully open source.
 What is it? - Simple Protocol For Mac. 
 This Will Let You Choose Supported Protocols To Use. Just with a couple of Questions Your Command or Commands Will Be Executed. 
 I am now making this into an MacOS app. It will have a GUI NOW.
+The GUI Can Now Be Found In My Other Repo, Simple-Protcol-For-Mac-App!
 
 [![Build Status](https://img.shields.io/badge/TravisCI%20Build-Passing-brightgreen.svg)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
 [![Build status](https://img.shields.io/badge/App%20Veyor%20Build-Failing-red.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
@@ -15,15 +16,17 @@ I am now making this into an MacOS app. It will have a GUI NOW.
 [![Swfit](https://img.shields.io/badge/Language-Swift-FF8C00.svg)](https://swift.org)
 
 ## IMPORTANT NOTES
-NOTE: IF YOU WANT TO HELP OR NEED HELP? CONTACT ME @ larsoncarter@blazermail.net
+NOTE: IF YOU WANT TO HELP, OR NEED HELP? CONTACT ME @ larsoncarter@blazermail.net
 NOTE: SPEED IS GOING TO BECOME OUR KEY!
 NOTE: YOU WILL HAVE TO EXECUTE THE PROGRAM YOURSELF! 
 NOTE: I DO-NOT RECCOMEND USING, IF YOU DO NOT KNOW WHAT YOU ARE DOING! 
 NOTE: I DO-NOT PROVIDE SUDO SUPPORT OR ROOT SUPPORT!
+NOTE: THIS PROGRAM WILL NOT SSH FOR YOU YET, IT WILL JUST TELL YOU THE RIGHT ORDER.
 
 ## Usage NOTES.
 
 You'll need to use your MAC OS terminal for this to work. 
+"SUDO" access is not required.
 It is really Easy And Simple To Use. 
 Look At The Next Section Titled "Steps On How To Use" Email Me @ larsoncarter@blazermail.net 
 NOTE: For Simple Support, I Will Not Help Support Custom Or Edited Versions.
@@ -43,6 +46,8 @@ NOTE: YOU ALSO MUST HAVE MAC OS 10.12 OR LATER.
 ### 2. Click Go.
 ### 3. Click Utilities.
 ### 4. Double-click Terminal.
+
+NOTE: THESE STEPS WILL BE UPDATED SOON!
 
 1.) Open Terminal.
 
