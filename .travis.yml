@@ -1,6 +1,6 @@
 language: swift
-xcode_sdk: macosx10.13
-osx_image: xcode9.3
+xcode_sdk: macosx10.14
+osx_image: xcode10
 branches: master
 skip_cleanup: true
 repo: larsonthekidrs/Simple-Protocol-For-Mac-Terminal
