@@ -7,7 +7,7 @@ I am now making this into an MacOS app. It will have a GUI NOW.
 The GUI Can Now Be Found In My Other Repo, Simple-Protcol-For-Mac-App!
 
 [![Build Status](https://img.shields.io/badge/TravisCI%20Build-Passing-brightgreen.svg)](https://travis-ci.org/larsonthekidrs/Simple-Protocol-For-Mac)
-[![Build status](https://img.shields.io/badge/App%20Veyor%20Build-Failing-red.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
+[![Build status](https://img.shields.io/badge/App%20Veyor%20Build-Passing-brightgreen.svg)](https://ci.appveyor.com/project/larsonthekidrs/simple-protocol-for-mac)
 [![Maintenance](https://img.shields.io/badge/Maintenance-Yes-blue.svg)](https://github.com/larsonthekidrs/Simple-Protocol-For-Mac/graphs/commit-activity)
 [![My Website](https://img.shields.io/badge/Website%20Up-Yes-ff69b4.svg)](https://larsoncarter.website)
 [![Made-With-Bash](https://img.shields.io/badge/Made%20With-Bash-lightgray.svg)](https://www.gnu.org/software/bash/)
